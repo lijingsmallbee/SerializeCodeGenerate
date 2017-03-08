@@ -1,0 +1,76 @@
+syntax = "proto2";
+
+package protocol.msg;
+option java_package = "com.game.protocol.pb.msg";
+
+// 登陆平台
+enum LoginPlatform
+{
+    // 本地登陆
+	PLATFORM_LOCAL = 1;
+	// 快客登陆
+	PLATFORM_QUICK = 2;
+}
+
+// 登陆消息
+message LoginMsg
+{
+    // 登陆平台
+	optional LoginPlatform platform = 1;
+	// 登陆账号
+	optional string passport = 2;
+}
+
+
+// 职业类型
+enum ClassType
+{
+	// 甲士
+	WARRIOR = 1;
+	// 道士
+	TAOIST = 2;
+	// 方士
+	ALCHEMIST = 3;
+}
+
+// 创建角色消息
+message CreateRoleMsg
+{
+	// 职业
+	optional ClassType classType = 1;
+	// 名字
+	optional string name = 2;
+}
+
+// 金钱信息
+message MoneyInfoMsg
+{
+	// 金钱
+	optional int32 coins = 1;
+	// 元宝
+	optional int32 golds = 2;
+}
+
+// 重连消息
+message ReconnectMsg
+{
+	// 重连token
+	optional string token = 1;
+	// 账号:用于客户端重连的时候发给服务器
+	optional string passport = 2;
+}
+
+// 角色基本信息，(用于可扩展的选择角色的信息展示)
+message RoleBasicInfoMsg
+{
+	repeated int32 items = 1;
+	repeated float testfloats = 2;
+}
+
+// 角色列表信息
+message RoleListInfoMsg
+{
+	// 角色列表
+	repeated RoleBasicInfoMsg roles = 1;
+	optional RoleBasicInfoMsg testClass = 2;
+}

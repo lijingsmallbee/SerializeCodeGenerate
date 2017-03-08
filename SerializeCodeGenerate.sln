@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCodeGenerate.Plugins", "SerializeCodeGenerate.Plugins.csproj", "{55EFFBC5-C3B8-097E-948E-096227E62158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCodeGenerate", "SerializeCodeGenerate.csproj", "{C6711A3C-2C69-D490-16BB-A16AB52F45FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCodeGenerate.Editor.Plugins", "SerializeCodeGenerate.Editor.Plugins.csproj", "{F2FE86FB-40D0-6D2C-BDC5-0102EED96489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EFFBC5-C3B8-097E-948E-096227E62158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EFFBC5-C3B8-097E-948E-096227E62158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EFFBC5-C3B8-097E-948E-096227E62158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EFFBC5-C3B8-097E-948E-096227E62158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6711A3C-2C69-D490-16BB-A16AB52F45FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6711A3C-2C69-D490-16BB-A16AB52F45FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6711A3C-2C69-D490-16BB-A16AB52F45FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6711A3C-2C69-D490-16BB-A16AB52F45FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FE86FB-40D0-6D2C-BDC5-0102EED96489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE86FB-40D0-6D2C-BDC5-0102EED96489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE86FB-40D0-6D2C-BDC5-0102EED96489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE86FB-40D0-6D2C-BDC5-0102EED96489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

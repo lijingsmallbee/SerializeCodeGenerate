@@ -1,0 +1,24 @@
+5.5.1f1:2.8.2.0
+StandaloneWindows
+E:/511/工作工具/Unity55/Editor/Data/Managed/UnityEngine.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+E:/511/工作工具/Unity55/Editor/Data/Managed/UnityEditor.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/Editor/UnityEditor.PlaymodeTestsRunner.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+E:/511/工作工具/Unity55/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+E:/511/工作工具/Unity55/Editor/Data/Managed/UnityEditor.Graphs.dll
+E:/511/工作工具/Unity55/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+E:/511/工作工具/Unity55/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
